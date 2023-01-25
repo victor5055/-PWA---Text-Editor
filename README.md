@@ -60,7 +60,7 @@ none
 
 ## Overview: What Was Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
-
+I created notes or code snippets with or without an internet connection SO THAT I can reliably retrieve them for later use.
 
 
 ### Screenshots (Building this application)
