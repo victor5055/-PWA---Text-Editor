@@ -65,7 +65,7 @@ none
 
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-![](./)
+![](./JATE%20img.PNG)
 
     
 
