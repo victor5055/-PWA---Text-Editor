@@ -57,6 +57,7 @@ none
 
 ## Installation
 ###### [Back to Table of Contents](#Table-of-Contents)
+Open the URL using a browser then add text to the text editor and the data will persist when the editor loses focus. Install the editor to your local PC by selecting the install button no the top left corner and following the prompts.
 
 ## Overview: What Was Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
