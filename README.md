@@ -59,6 +59,26 @@ none
 ###### [Back to Table of Contents](#Table-of-Contents)
 Open the URL using a browser then add text to the text editor and the data will persist when the editor loses focus. Install the editor to your local PC by selecting the install button no the top left corner and following the prompts.
 
+The following npm packages are required for this module:
+
+express ^4.17.1
+babel-loader: ^8.2.2,
+babel/core: ^7.15.0,
+babel/plugin-transform-runtime: ^7.15.0,
+babel/preset-env: ^7.15.0,
+babel/runtime: ^7.15.3,
+css-loader: ^6.2.0,
+style-loader: ^3.2.1,
+html-webpack-plugin: ^5.3.2,
+http-server: ^0.11.1,
+webpack: ^5.51.1,
+webpack-cli: ^4.8.0,
+webpack-dev-server: ^4.0.0,
+webpack-pwa-manifest: ^4.3.0,
+workbox-webpack-plugin: ^6.2.4
+concurrently: ^5.2.0,
+nodemon: ^2.0.4
+
 ## Overview: What Was Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
 I created notes or code snippets with or without an internet connection SO THAT I can reliably retrieve them for later use.
